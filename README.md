@@ -13,3 +13,7 @@ It also highlights the trade-offs: while microservices offer flexibility, they c
 ---
 
 *In short: the article made me think critically about how software architecture choices directly influence both the technical and organizational success of a project.*
+## Comment
+
+> I liked how the piece connects microservices to team boundaries and independent deployability—it’s a practical lens, not just theory. The candid trade-offs around ops, observability, and data consistency make it feel grounded in real-world engineering, not hype.  
+> — *Akshith Karthik*
